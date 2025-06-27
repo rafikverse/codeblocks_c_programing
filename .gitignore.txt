@@ -1,6 +1,12 @@
 *.exe
 *.o
 *.obj
-*.dll
-*.class
+
+bin/
+obj/
+*.depend
+*.layout
+
 *.log
+*.tmp
+*.bak
